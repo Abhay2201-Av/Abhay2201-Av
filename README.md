@@ -1,6 +1,11 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Abhaysinh Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<br/>
+   <p align="center" color:"red">
+<!--      <a href="https://github.com/soumya0587/readme-typing-svg"> -->
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self ABHAYSINH CHAUHAN 🏽😀; I am a FRONT-END%20Web%20Developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+      </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay2201-av&label=Profile%20views&color=0e75b6&style=flat" alt="abhay2201-av" /> </p>
