@@ -21,7 +21,7 @@
 - 💬 Ask me about **Front end**
 
 - 📫 How to reach me **abhaysinh2201@gmail.com**
--  📄 Know about my experiences [[[https://drive.google.com/file/d/1UmCuMxOjVh6PTK11DvT65GIm7uBvUaa1/view?usp=share_link]](https://drive.google.com/file/d/14-hTHGhUyWpUpFPMK80Zyv0AoW79STxJ/view)]
+-  📄 Know about my experiences [[[https://drive.google.com/file/d/1xpgejsUJyqWVEtvJ_W6ol2Txq0tbXSSk/view?usp=drive_link]](https://drive.google.com/file/d/1xpgejsUJyqWVEtvJ_W6ol2Txq0tbXSSk/view?usp=drive_link)]
 
 ## 🌐 Socials:
 <p align="left">
