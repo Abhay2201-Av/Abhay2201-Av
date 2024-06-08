@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
 <h1 align="center">Hi 👋, I'm Abhaysinh Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br/>
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://abhay2201-av.github.io/Portfolio/](https://abhay2201-av.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://abhay2201-av.github.io/Portfolio/](https://abhay2201-av.github.io/abhay-portfolio/)
 
 - 💬 Ask me about **Front end**
 
