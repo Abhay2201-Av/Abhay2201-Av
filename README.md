@@ -1,4 +1,4 @@
-![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY)
 <h1 align="center">Hi 👋, I'm Abhaysinh Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br/>
